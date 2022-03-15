@@ -8,8 +8,9 @@ logintech always strive to let the users all over the world in the secure space
 
 ## the first code in logintech
 
-'''python
-print("please login")
-'''
+```python
 
+print("please login")
+
+```
 
