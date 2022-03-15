@@ -6,6 +6,6 @@ logintech is the comapany trying to make the world a better place with login.
 
 logintech always strive to let the users all over the world in the secure space
 
-###thank you
+
 
 
