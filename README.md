@@ -18,4 +18,4 @@ print("please login")
 
 CEO | President
 ----- | ----
-Tim cook | Trump
+Tim Cook | Donald Trump
